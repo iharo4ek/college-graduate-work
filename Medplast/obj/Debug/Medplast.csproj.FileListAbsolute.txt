@@ -1,0 +1,75 @@
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\bin\Debug\Medplast.exe.config
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\bin\Debug\Medplast.exe
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\bin\Debug\Medplast.pdb
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.csproj.AssemblyReference.cache
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form1.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Properties.Resources.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.csproj.GenerateResource.cache
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.csproj.CoreCompileInputs.cache
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.exe
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.pdb
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form2.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form11.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form12.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form13.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form14.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form15.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form16.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form3.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form4.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form5.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form6.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form7.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form8.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form9.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.csproj.AssemblyReference.cache
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Form1.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Form11.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Form12.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Form13.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Form14.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Form15.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Form16.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Form2.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Form3.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Form4.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Form5.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Form6.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Form7.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Form8.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Form9.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.Properties.Resources.resources
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.csproj.GenerateResource.cache
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.csproj.CoreCompileInputs.cache
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.exe
+D:\рабочий стол\Medplast\Medplast\obj\Debug\Medplast.pdb
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form10.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form17.resources
+D:\рабочий стол\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form18.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\bin\Debug\Medplast.exe.config
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\bin\Debug\Medplast.exe
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\bin\Debug\Medplast.pdb
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.csproj.AssemblyReference.cache
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form1.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form10.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form11.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form12.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form13.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form14.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form15.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form16.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form17.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form18.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form2.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form3.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form4.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form5.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form6.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form7.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form8.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Form9.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.Properties.Resources.resources
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.csproj.GenerateResource.cache
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.csproj.CoreCompileInputs.cache
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.exe
+D:\рабочий стол\Новая папка (2)\программирование\информатика\диплом\Medplast\Medplast\obj\Debug\Medplast.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medplast", "Medplast\Medplast.csproj", "{5546F120-3C9F-49DB-B14D-A8A60144C362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5546F120-3C9F-49DB-B14D-A8A60144C362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5546F120-3C9F-49DB-B14D-A8A60144C362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5546F120-3C9F-49DB-B14D-A8A60144C362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5546F120-3C9F-49DB-B14D-A8A60144C362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBE1D52F-0A5E-4EEF-9FA7-B72C41466009}
+	EndGlobalSection
+EndGlobal
